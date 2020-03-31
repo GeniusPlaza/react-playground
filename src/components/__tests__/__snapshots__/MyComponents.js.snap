@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`All MyButton Tests renders correctly 1`] = `
+<View
+  accessible={true}
+  focusable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+>
+  <View
+    style={
+      Object {
+        "paddingHorizontal": 24,
+        "paddingVertical": 8,
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "fontSize": 16,
+          "fontWeight": "bold",
+          "paddingBottom": 4,
+        }
+      }
+    >
+      Default Name
+    </Text>
+    <Text
+      style={
+        Object {
+          "paddingBottom": 8,
+        }
+      }
+    >
+      undefined stars
+    </Text>
+  </View>
+</View>
+`;
